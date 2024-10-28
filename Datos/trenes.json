@@ -1,0 +1,6514 @@
+[
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T1",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 5836879371,
+      "tren_km": 16638744,
+      "viajeros": 100892888,
+      "viajeros_km": 1924136032
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 185703252,
+      "tren_km": 587646,
+      "viajeros": 355281,
+      "viajeros_km": 135603638
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1229535141,
+      "tren_km": 3060141,
+      "viajeros": 1826917,
+      "viajeros_km": 852359177
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 362652012,
+      "tren_km": 1009358,
+      "viajeros": 538725,
+      "viajeros_km": 247875607
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 444641331,
+      "tren_km": 1318513,
+      "viajeros": 785860,
+      "viajeros_km": 333002869
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 299258736,
+      "tren_km": 824318,
+      "viajeros": 563933,
+      "viajeros_km": 215498752
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 584462368,
+      "tren_km": 1095464,
+      "viajeros": 647074,
+      "viajeros_km": 410404457
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T1",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1830425455,
+      "tren_km": 6876833,
+      "viajeros": 2572312,
+      "viajeros_km": 1053771582
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T1",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 431185884,
+      "tren_km": 1435739,
+      "viajeros": 1752984,
+      "viajeros_km": 206580964
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T1",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 2092715124,
+      "tren_km": 8584269,
+      "viajeros": 5443411,
+      "viajeros_km": 505175108
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T2",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 5824819424,
+      "tren_km": 16609696,
+      "viajeros": 106825480,
+      "viajeros_km": 2035255069
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 199019072,
+      "tren_km": 617014,
+      "viajeros": 399042,
+      "viajeros_km": 153321580
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1301425368,
+      "tren_km": 3187669,
+      "viajeros": 2084953,
+      "viajeros_km": 992845133
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 373118751,
+      "tren_km": 1024184,
+      "viajeros": 631520,
+      "viajeros_km": 288773728
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 459974750,
+      "tren_km": 1361793,
+      "viajeros": 904058,
+      "viajeros_km": 383411478
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 300801910,
+      "tren_km": 829193,
+      "viajeros": 620891,
+      "viajeros_km": 237688484
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 651703834,
+      "tren_km": 1124362,
+      "viajeros": 767141,
+      "viajeros_km": 494861247
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T2",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1827536507,
+      "tren_km": 6889341,
+      "viajeros": 2820442,
+      "viajeros_km": 1161494429
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T2",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 436762812,
+      "tren_km": 1459397,
+      "viajeros": 1940205,
+      "viajeros_km": 231356947
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T2",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 2101381908,
+      "tren_km": 8583607,
+      "viajeros": 6094877,
+      "viajeros_km": 557824451
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T3",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 5567867412,
+      "tren_km": 16473429,
+      "viajeros": 92803359,
+      "viajeros_km": 1774859692
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 241856696,
+      "tren_km": 723656,
+      "viajeros": 452660,
+      "viajeros_km": 181806324
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1147127129,
+      "tren_km": 2736989,
+      "viajeros": 1821447,
+      "viajeros_km": 867827351
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 384029235,
+      "tren_km": 1055895,
+      "viajeros": 648362,
+      "viajeros_km": 307139165
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 392958171,
+      "tren_km": 1202304,
+      "viajeros": 716966,
+      "viajeros_km": 303686591
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 258510638,
+      "tren_km": 715796,
+      "viajeros": 540773,
+      "viajeros_km": 206996836
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 789796732,
+      "tren_km": 1304875,
+      "viajeros": 928412,
+      "viajeros_km": 627913587
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T3",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1991497121,
+      "tren_km": 7290176,
+      "viajeros": 3277997,
+      "viajeros_km": 1412274606
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T3",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 424656691,
+      "tren_km": 1461563,
+      "viajeros": 1695420,
+      "viajeros_km": 204409862
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T3",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 2132510330,
+      "tren_km": 8731586,
+      "viajeros": 6153479,
+      "viajeros_km": 617530204
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T4",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 5761905089,
+      "tren_km": 16827005,
+      "viajeros": 108388154,
+      "viajeros_km": 2064432081
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 197354708,
+      "tren_km": 587340,
+      "viajeros": 373379,
+      "viajeros_km": 141908499
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1298889661,
+      "tren_km": 3121429,
+      "viajeros": 2019026,
+      "viajeros_km": 946808747
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 373095153,
+      "tren_km": 1036833,
+      "viajeros": 574854,
+      "viajeros_km": 264413562
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 460152061,
+      "tren_km": 1354541,
+      "viajeros": 865033,
+      "viajeros_km": 366449901
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 298224612,
+      "tren_km": 812498,
+      "viajeros": 593367,
+      "viajeros_km": 226546049
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 596948709,
+      "tren_km": 1131785,
+      "viajeros": 692047,
+      "viajeros_km": 445272935
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T4",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1842307196,
+      "tren_km": 6959899,
+      "viajeros": 2769656,
+      "viajeros_km": 1136961985
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T4",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 433510721,
+      "tren_km": 1447282,
+      "viajeros": 1920548,
+      "viajeros_km": 234947695
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2016T4",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 2090407454,
+      "tren_km": 8669562,
+      "viajeros": 5626815,
+      "viajeros_km": 530276178
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T1",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 5928258015,
+      "tren_km": 16995461,
+      "viajeros": 107296795,
+      "viajeros_km": 2051892625
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 193867080,
+      "tren_km": 572168,
+      "viajeros": 360739,
+      "viajeros_km": 136613485
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1288368245,
+      "tren_km": 3096645,
+      "viajeros": 1960745,
+      "viajeros_km": 921822489
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 346696686,
+      "tren_km": 1013037,
+      "viajeros": 531912,
+      "viajeros_km": 245667293
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 451624975,
+      "tren_km": 1319709,
+      "viajeros": 820601,
+      "viajeros_km": 347788710
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 306020942,
+      "tren_km": 829335,
+      "viajeros": 590802,
+      "viajeros_km": 225801098
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 555333277,
+      "tren_km": 1106895,
+      "viajeros": 621631,
+      "viajeros_km": 391565218
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T1",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1829038953,
+      "tren_km": 6937992,
+      "viajeros": 2589183,
+      "viajeros_km": 1038619577
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T1",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 421800427,
+      "tren_km": 1452686,
+      "viajeros": 1815866,
+      "viajeros_km": 214611200
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T1",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 2045334040,
+      "tren_km": 8552251,
+      "viajeros": 5355504,
+      "viajeros_km": 495101632
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T2",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 5837487670,
+      "tren_km": 16906372,
+      "viajeros": 107408429,
+      "viajeros_km": 2037340196
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 233686058,
+      "tren_km": 669066,
+      "viajeros": 448245,
+      "viajeros_km": 173658509
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1367935542,
+      "tren_km": 3162071,
+      "viajeros": 2228142,
+      "viajeros_km": 1071631621
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 377698815,
+      "tren_km": 1149348,
+      "viajeros": 673606,
+      "viajeros_km": 311652599
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 480393154,
+      "tren_km": 1453123,
+      "viajeros": 909090,
+      "viajeros_km": 383140917
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 303909813,
+      "tren_km": 825406,
+      "viajeros": 642522,
+      "viajeros_km": 245820934
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 665959047,
+      "tren_km": 1176274,
+      "viajeros": 814444,
+      "viajeros_km": 524723600
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T2",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1918045626,
+      "tren_km": 7136508,
+      "viajeros": 3042463,
+      "viajeros_km": 1253776612
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T2",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 424911590,
+      "tren_km": 1457755,
+      "viajeros": 1969101,
+      "viajeros_km": 238148950
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T2",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 2066729013,
+      "tren_km": 8599127,
+      "viajeros": 6189605,
+      "viajeros_km": 587630072
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T3",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 5543454832,
+      "tren_km": 16425146,
+      "viajeros": 94985366,
+      "viajeros_km": 1804884850
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 244365954,
+      "tren_km": 717770,
+      "viajeros": 452006,
+      "viajeros_km": 180935716
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1186670377,
+      "tren_km": 2707493,
+      "viajeros": 1910619,
+      "viajeros_km": 915657098
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 380064258,
+      "tren_km": 1129353,
+      "viajeros": 665530,
+      "viajeros_km": 314764833
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 402075587,
+      "tren_km": 1215486,
+      "viajeros": 728121,
+      "viajeros_km": 307834391
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 286958827,
+      "tren_km": 802068,
+      "viajeros": 567722,
+      "viajeros_km": 217398544
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 765713106,
+      "tren_km": 1243741,
+      "viajeros": 925444,
+      "viajeros_km": 626482644
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T3",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 2029427890,
+      "tren_km": 7367543,
+      "viajeros": 3338638,
+      "viajeros_km": 1427155854
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T3",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 418198203,
+      "tren_km": 1457178,
+      "viajeros": 1676069,
+      "viajeros_km": 201815163
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T3",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 2100722972,
+      "tren_km": 8690634,
+      "viajeros": 6184117,
+      "viajeros_km": 614851675
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T4",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 5790793042,
+      "tren_km": 16731259,
+      "viajeros": 113959314,
+      "viajeros_km": 2153427775
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 206823786,
+      "tren_km": 603494,
+      "viajeros": 391458,
+      "viajeros_km": 149580945
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1340448742,
+      "tren_km": 3112397,
+      "viajeros": 2053760,
+      "viajeros_km": 956608595
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 369068407,
+      "tren_km": 1082541,
+      "viajeros": 605253,
+      "viajeros_km": 279168298
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 465023780,
+      "tren_km": 1370698,
+      "viajeros": 877131,
+      "viajeros_km": 370816558
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 341202172,
+      "tren_km": 920700,
+      "viajeros": 634384,
+      "viajeros_km": 242571673
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 601318424,
+      "tren_km": 1111818,
+      "viajeros": 693779,
+      "viajeros_km": 437655551
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T4",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 1876454612,
+      "tren_km": 6961445,
+      "viajeros": 2795842,
+      "viajeros_km": 1132304871
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T4",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 483184384,
+      "tren_km": 1451998,
+      "viajeros": 2191819,
+      "viajeros_km": 262869859
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2017T4",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": 2098729217,
+      "tren_km": 8624920,
+      "viajeros": 5944686,
+      "viajeros_km": 560189336
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T1",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 110902963,
+      "plazas_km_ofertadas": 5808314666,
+      "tren_km": 16735482,
+      "viajeros": 106578410,
+      "viajeros_km": 2014357127
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 479075,
+      "plazas_km_ofertadas": 217498382,
+      "tren_km": 691322,
+      "viajeros": 400765,
+      "viajeros_km": 153502692
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2178714,
+      "plazas_km_ofertadas": 1262976573,
+      "tren_km": 3053523,
+      "viajeros": 1834185,
+      "viajeros_km": 909972693
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 697073,
+      "plazas_km_ofertadas": 357598449,
+      "tren_km": 1057724,
+      "viajeros": 563199,
+      "viajeros_km": 260702116
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 988707,
+      "plazas_km_ofertadas": 465680997,
+      "tren_km": 1366518,
+      "viajeros": 836357,
+      "viajeros_km": 353576514
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 864296,
+      "plazas_km_ofertadas": 343861788,
+      "tren_km": 1016171,
+      "viajeros": 638226,
+      "viajeros_km": 245625504
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 539994,
+      "plazas_km_ofertadas": 576718791,
+      "tren_km": 1076880,
+      "viajeros": 668664,
+      "viajeros_km": 418667569
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T1",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3434725,
+      "plazas_km_ofertadas": 1917908833,
+      "tren_km": 6993423,
+      "viajeros": 2747321,
+      "viajeros_km": 1102729164
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T1",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3006053,
+      "plazas_km_ofertadas": 468678541,
+      "tren_km": 1442829,
+      "viajeros": 2095132,
+      "viajeros_km": 245129748
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T1",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 13202983,
+      "plazas_km_ofertadas": 2047801218,
+      "tren_km": 8454987,
+      "viajeros": 5480986,
+      "viajeros_km": 513073634
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T2",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 112473805,
+      "plazas_km_ofertadas": 5884411135,
+      "tren_km": 16948300,
+      "viajeros": 116417998,
+      "viajeros_km": 2187820297
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 505975,
+      "plazas_km_ofertadas": 229712650,
+      "tren_km": 630935,
+      "viajeros": 442879,
+      "viajeros_km": 171378533
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2355667,
+      "plazas_km_ofertadas": 1396093981,
+      "tren_km": 3278265,
+      "viajeros": 2161962,
+      "viajeros_km": 1091568726
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 755139,
+      "plazas_km_ofertadas": 387386307,
+      "tren_km": 1095055,
+      "viajeros": 674043,
+      "viajeros_km": 311983523
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1090766,
+      "plazas_km_ofertadas": 513381375,
+      "tren_km": 1439452,
+      "viajeros": 982789,
+      "viajeros_km": 413491644
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 850550,
+      "plazas_km_ofertadas": 340646123,
+      "tren_km": 894335,
+      "viajeros": 662091,
+      "viajeros_km": 254426242
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 567406,
+      "plazas_km_ofertadas": 663811015,
+      "tren_km": 1019924,
+      "viajeros": 753368,
+      "viajeros_km": 490712229
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T2",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3596102,
+      "plazas_km_ofertadas": 2012928749,
+      "tren_km": 7286988,
+      "viajeros": 3146953,
+      "viajeros_km": 1285455869
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T2",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3086848,
+      "plazas_km_ofertadas": 424203195,
+      "tren_km": 1475087,
+      "viajeros": 2009720,
+      "viajeros_km": 273975670
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T2",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 13614997,
+      "plazas_km_ofertadas": 2090653662,
+      "tren_km": 8554276,
+      "viajeros": 6276267,
+      "viajeros_km": 583669908
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T3",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 107852154,
+      "plazas_km_ofertadas": 5654100794,
+      "tren_km": 16109020,
+      "viajeros": 99613837,
+      "viajeros_km": 1885518073
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 519374,
+      "plazas_km_ofertadas": 235795796,
+      "tren_km": 716334,
+      "viajeros": 463628,
+      "viajeros_km": 184914525
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1995818,
+      "plazas_km_ofertadas": 1183710985,
+      "tren_km": 2707520,
+      "viajeros": 1816330,
+      "viajeros_km": 924464457
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 777648,
+      "plazas_km_ofertadas": 398933424,
+      "tren_km": 1139635,
+      "viajeros": 688702,
+      "viajeros_km": 326185088
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 903206,
+      "plazas_km_ofertadas": 424979226,
+      "tren_km": 1240290,
+      "viajeros": 767866,
+      "viajeros_km": 325463025
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 745977,
+      "plazas_km_ofertadas": 297262020,
+      "tren_km": 819881,
+      "viajeros": 584651,
+      "viajeros_km": 224736718
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 632291,
+      "plazas_km_ofertadas": 822487255,
+      "tren_km": 1268283,
+      "viajeros": 967357,
+      "viajeros_km": 656808705
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T3",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3734833,
+      "plazas_km_ofertadas": 2100474561,
+      "tren_km": 7438232,
+      "viajeros": 3434834,
+      "viajeros_km": 1451571872
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T3",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2940664,
+      "plazas_km_ofertadas": 517487137,
+      "tren_km": 1461908,
+      "viajeros": 2279776,
+      "viajeros_km": 233302417
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T3",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 13334080,
+      "plazas_km_ofertadas": 2119773622,
+      "tren_km": 8603907,
+      "viajeros": 6323146,
+      "viajeros_km": 622981593
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T4",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 110652293,
+      "plazas_km_ofertadas": 5834952235,
+      "tren_km": 16495967,
+      "viajeros": 117973137,
+      "viajeros_km": 2230226581
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 490445,
+      "plazas_km_ofertadas": 222662030,
+      "tren_km": 665132,
+      "viajeros": 426530,
+      "viajeros_km": 163890816
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2296585,
+      "plazas_km_ofertadas": 1336672931,
+      "tren_km": 3128465,
+      "viajeros": 2057259,
+      "viajeros_km": 1021080470
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 772361,
+      "plazas_km_ofertadas": 396221193,
+      "tren_km": 1056477,
+      "viajeros": 637295,
+      "viajeros_km": 294158565
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1065734,
+      "plazas_km_ofertadas": 501959178,
+      "tren_km": 1426176,
+      "viajeros": 931619,
+      "viajeros_km": 391726431
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 856979,
+      "plazas_km_ofertadas": 342198265,
+      "tren_km": 946749,
+      "viajeros": 646073,
+      "viajeros_km": 247604032
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 574184,
+      "plazas_km_ofertadas": 604460225,
+      "tren_km": 1110859,
+      "viajeros": 726493,
+      "viajeros_km": 452057617
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T4",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3500328,
+      "plazas_km_ofertadas": 1961455241,
+      "tren_km": 6978674,
+      "viajeros": 2944592,
+      "viajeros_km": 1193148370
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T4",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3052349,
+      "plazas_km_ofertadas": 509327052,
+      "tren_km": 1468317,
+      "viajeros": 2269077,
+      "viajeros_km": 274811457
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2018T4",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 13264966,
+      "plazas_km_ofertadas": 2049935615,
+      "tren_km": 8392517,
+      "viajeros": 6134330,
+      "viajeros_km": 559688840
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T1",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 112047971,
+      "plazas_km_ofertadas": 5935923947,
+      "tren_km": 16524598,
+      "viajeros": 115831948,
+      "viajeros_km": 2190227175
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 477643,
+      "plazas_km_ofertadas": 216154850,
+      "tren_km": 653973,
+      "viajeros": 402112,
+      "viajeros_km": 154094400
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2289512,
+      "plazas_km_ofertadas": 1320458765,
+      "tren_km": 3156919,
+      "viajeros": 1989990,
+      "viajeros_km": 982438346
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 752487,
+      "plazas_km_ofertadas": 386025831,
+      "tren_km": 1088298,
+      "viajeros": 599629,
+      "viajeros_km": 277834890
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1042333,
+      "plazas_km_ofertadas": 490938843,
+      "tren_km": 1402046,
+      "viajeros": 880500,
+      "viajeros_km": 371795721
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 858585,
+      "plazas_km_ofertadas": 341769323,
+      "tren_km": 953576,
+      "viajeros": 629123,
+      "viajeros_km": 241488697
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 552701,
+      "plazas_km_ofertadas": 569199784,
+      "tren_km": 1065349,
+      "viajeros": 653144,
+      "viajeros_km": 400905236
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T1",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3420109,
+      "plazas_km_ofertadas": 1815398611,
+      "tren_km": 6889842,
+      "viajeros": 2657646,
+      "viajeros_km": 1040699022
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T1",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3138753,
+      "plazas_km_ofertadas": 491212237,
+      "tren_km": 1467170,
+      "viajeros": 2156368,
+      "viajeros_km": 254011771
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T1",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 13345643,
+      "plazas_km_ofertadas": 2027521916,
+      "tren_km": 8291610,
+      "viajeros": 5459225,
+      "viajeros_km": 483088369
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T2",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 116645331,
+      "plazas_km_ofertadas": 6000308257,
+      "tren_km": 16756781,
+      "viajeros": 113127772,
+      "viajeros_km": 2140222014
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 492561,
+      "plazas_km_ofertadas": 222794742,
+      "tren_km": 671208,
+      "viajeros": 448871,
+      "viajeros_km": 175479262
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2325886,
+      "plazas_km_ofertadas": 1360571089,
+      "tren_km": 3191699,
+      "viajeros": 2216496,
+      "viajeros_km": 1113630205
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 793161,
+      "plazas_km_ofertadas": 407483943,
+      "tren_km": 1055245,
+      "viajeros": 721118,
+      "viajeros_km": 335513646
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1089395,
+      "plazas_km_ofertadas": 513105045,
+      "tren_km": 1426787,
+      "viajeros": 992023,
+      "viajeros_km": 415317819
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 850283,
+      "plazas_km_ofertadas": 338485058,
+      "tren_km": 947854,
+      "viajeros": 697542,
+      "viajeros_km": 268141114
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 610034,
+      "plazas_km_ofertadas": 701068398,
+      "tren_km": 1229146,
+      "viajeros": 872864,
+      "viajeros_km": 555465905
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T2",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3602728,
+      "plazas_km_ofertadas": 1931319131,
+      "tren_km": 7289021,
+      "viajeros": 3149248,
+      "viajeros_km": 1277590983
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T2",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3092269,
+      "plazas_km_ofertadas": 483432467,
+      "tren_km": 1482117,
+      "viajeros": 2352336,
+      "viajeros_km": 282341064
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T2",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 13703316,
+      "plazas_km_ofertadas": 2060812633,
+      "tren_km": 8412143,
+      "viajeros": 6345439,
+      "viajeros_km": 565845130
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T3",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 121547663,
+      "plazas_km_ofertadas": 5851758406,
+      "tren_km": 16116563,
+      "viajeros": 96770021,
+      "viajeros_km": 1830296568
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 535733,
+      "plazas_km_ofertadas": 242341438,
+      "tren_km": 715252,
+      "viajeros": 485659,
+      "viajeros_km": 195422624
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2004182,
+      "plazas_km_ofertadas": 1183331606,
+      "tren_km": 2533791,
+      "viajeros": 1899395,
+      "viajeros_km": 959711698
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 975435,
+      "plazas_km_ofertadas": 511224159,
+      "tren_km": 1415891,
+      "viajeros": 850876,
+      "viajeros_km": 407969709
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 940853,
+      "plazas_km_ofertadas": 443141763,
+      "tren_km": 1326210,
+      "viajeros": 805230,
+      "viajeros_km": 338933105
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 751332,
+      "plazas_km_ofertadas": 299982057,
+      "tren_km": 830559,
+      "viajeros": 644044,
+      "viajeros_km": 248412280
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 609770,
+      "plazas_km_ofertadas": 800969434,
+      "tren_km": 1316637,
+      "viajeros": 993221,
+      "viajeros_km": 658276718
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T3",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3720289,
+      "plazas_km_ofertadas": 2012110671,
+      "tren_km": 7249369,
+      "viajeros": 3442941,
+      "viajeros_km": 1450679784
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T3",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3051966,
+      "plazas_km_ofertadas": 480804639,
+      "tren_km": 1481916,
+      "viajeros": 2028674,
+      "viajeros_km": 242855338
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T3",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 13495754,
+      "plazas_km_ofertadas": 2036737000,
+      "tren_km": 8254802,
+      "viajeros": 6313739,
+      "viajeros_km": 583307908
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T4",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 120160826,
+      "plazas_km_ofertadas": 6069115965,
+      "tren_km": 16621614,
+      "viajeros": 117448712,
+      "viajeros_km": 2207725999
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 486809,
+      "plazas_km_ofertadas": 220161526,
+      "tren_km": 666332,
+      "viajeros": 431889,
+      "viajeros_km": 165584479
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2251180,
+      "plazas_km_ofertadas": 1339226655,
+      "tren_km": 3276591,
+      "viajeros": 2048559,
+      "viajeros_km": 1019556365
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 965169,
+      "plazas_km_ofertadas": 505912467,
+      "tren_km": 1282803,
+      "viajeros": 774050,
+      "viajeros_km": 361643775
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1048629,
+      "plazas_km_ofertadas": 493904259,
+      "tren_km": 1432057,
+      "viajeros": 936023,
+      "viajeros_km": 392253333
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 866970,
+      "plazas_km_ofertadas": 345070826,
+      "tren_km": 963234,
+      "viajeros": 700683,
+      "viajeros_km": 269272142
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 627793,
+      "plazas_km_ofertadas": 646196410,
+      "tren_km": 1250821,
+      "viajeros": 699781,
+      "viajeros_km": 442025799
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T4",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3464408,
+      "plazas_km_ofertadas": 1848140658,
+      "tren_km": 7034617,
+      "viajeros": 2896078,
+      "viajeros_km": 1153722461
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T4",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3200687,
+      "plazas_km_ofertadas": 501279234,
+      "tren_km": 1480798,
+      "viajeros": 2340053,
+      "viajeros_km": 276492827
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2019T4",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 13644980,
+      "plazas_km_ofertadas": 2040663355,
+      "tren_km": 8374333,
+      "viajeros": 6138505,
+      "viajeros_km": 536048717
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T1",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 102865238,
+      "plazas_km_ofertadas": 5417275183,
+      "tren_km": 16471389,
+      "viajeros": 93350777,
+      "viajeros_km": 1734267912
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 421045,
+      "plazas_km_ofertadas": 190427998,
+      "tren_km": 613757,
+      "viajeros": 325137,
+      "viajeros_km": 123958296
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1840584,
+      "plazas_km_ofertadas": 1109825720,
+      "tren_km": 2681438,
+      "viajeros": 1507899,
+      "viajeros_km": 753318038
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 816305,
+      "plazas_km_ofertadas": 427293531,
+      "tren_km": 1153472,
+      "viajeros": 569445,
+      "viajeros_km": 267769269
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 889433,
+      "plazas_km_ofertadas": 418897343,
+      "tren_km": 1277082,
+      "viajeros": 709035,
+      "viajeros_km": 299608518
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 764417,
+      "plazas_km_ofertadas": 303931718,
+      "tren_km": 874355,
+      "viajeros": 542676,
+      "viajeros_km": 208666886
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 520080,
+      "plazas_km_ofertadas": 574118830,
+      "tren_km": 1112374,
+      "viajeros": 518588,
+      "viajeros_km": 329250012
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T1",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2721164,
+      "plazas_km_ofertadas": 1464456393,
+      "tren_km": 6025249,
+      "viajeros": 1985396,
+      "viajeros_km": 794580527
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T1",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2834711,
+      "plazas_km_ofertadas": 456300230,
+      "tren_km": 1452363,
+      "viajeros": 1852122,
+      "viajeros_km": 214082209
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T1",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 12163720,
+      "plazas_km_ofertadas": 1784398663,
+      "tren_km": 7854049,
+      "viajeros": 4632812,
+      "viajeros_km": 392670546
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T2",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 54955415,
+      "plazas_km_ofertadas": 2944198165,
+      "tren_km": 13228250,
+      "viajeros": 26695556,
+      "viajeros_km": 495642012
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 80684,
+      "plazas_km_ofertadas": 36464570,
+      "tren_km": 191170,
+      "viajeros": 34102,
+      "viajeros_km": 13034618
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 179052,
+      "plazas_km_ofertadas": 116034489,
+      "tren_km": 515726,
+      "viajeros": 125221,
+      "viajeros_km": 59794797
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 102635,
+      "plazas_km_ofertadas": 53904065,
+      "tren_km": 281683,
+      "viajeros": 58733,
+      "viajeros_km": 26540125
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 88363,
+      "plazas_km_ofertadas": 41618973,
+      "tren_km": 196626,
+      "viajeros": 42289,
+      "viajeros_km": 18168925
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 82504,
+      "plazas_km_ofertadas": 32021716,
+      "tren_km": 155806,
+      "viajeros": 22017,
+      "viajeros_km": 8235199
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 77398,
+      "plazas_km_ofertadas": 63675257,
+      "tren_km": 277556,
+      "viajeros": 52746,
+      "viajeros_km": 38453048
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T2",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 522790,
+      "plazas_km_ofertadas": 297261936,
+      "tren_km": 1858041,
+      "viajeros": 221129,
+      "viajeros_km": 96547022
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T2",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 506178,
+      "plazas_km_ofertadas": 87045750,
+      "tren_km": 499934,
+      "viajeros": 137540,
+      "viajeros_km": 22659974
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T2",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3360485,
+      "plazas_km_ofertadas": 564968787,
+      "tren_km": 3582249,
+      "viajeros": 917277,
+      "viajeros_km": 84408557
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T3",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 104046637,
+      "plazas_km_ofertadas": 5396317387,
+      "tren_km": 15211042,
+      "viajeros": 56242204,
+      "viajeros_km": 1055054120
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 334759,
+      "plazas_km_ofertadas": 151676646,
+      "tren_km": 449068,
+      "viajeros": 216068,
+      "viajeros_km": 85519836
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 821051,
+      "plazas_km_ofertadas": 507505833,
+      "tren_km": 1281420,
+      "viajeros": 493257,
+      "viajeros_km": 238115464
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 480395,
+      "plazas_km_ofertadas": 249618930,
+      "tren_km": 667699,
+      "viajeros": 314638,
+      "viajeros_km": 148697722
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 346370,
+      "plazas_km_ofertadas": 163140270,
+      "tren_km": 434131,
+      "viajeros": 215506,
+      "viajeros_km": 93518682
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 452893,
+      "plazas_km_ofertadas": 175601399,
+      "tren_km": 484531,
+      "viajeros": 206814,
+      "viajeros_km": 78228876
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 335525,
+      "plazas_km_ofertadas": 302267359,
+      "tren_km": 658561,
+      "viajeros": 300951,
+      "viajeros_km": 192074593
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T3",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1591123,
+      "plazas_km_ofertadas": 902117934,
+      "tren_km": 3223142,
+      "viajeros": 1073716,
+      "viajeros_km": 462114899
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T3",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1607046,
+      "plazas_km_ofertadas": 274248853,
+      "tren_km": 948434,
+      "viajeros": 738665,
+      "viajeros_km": 94169542
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T3",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 9299334,
+      "plazas_km_ofertadas": 1506865633,
+      "tren_km": 5910869,
+      "viajeros": 3033069,
+      "viajeros_km": 291359924
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T4",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 107105398,
+      "plazas_km_ofertadas": 5532261101,
+      "tren_km": 15377682,
+      "viajeros": 62487087,
+      "viajeros_km": 1163121663
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 372887,
+      "plazas_km_ofertadas": 169241818,
+      "tren_km": 522873,
+      "viajeros": 131197,
+      "viajeros_km": 45568807
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1066027,
+      "plazas_km_ofertadas": 632921778,
+      "tren_km": 1636453,
+      "viajeros": 488429,
+      "viajeros_km": 221877607
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 434880,
+      "plazas_km_ofertadas": 227738024,
+      "tren_km": 710978,
+      "viajeros": 183978,
+      "viajeros_km": 83627573
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 363943,
+      "plazas_km_ofertadas": 171417153,
+      "tren_km": 473224,
+      "viajeros": 171722,
+      "viajeros_km": 72882561
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 516930,
+      "plazas_km_ofertadas": 206824846,
+      "tren_km": 590958,
+      "viajeros": 156687,
+      "viajeros_km": 59050394
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 394845,
+      "plazas_km_ofertadas": 406532576,
+      "tren_km": 663816,
+      "viajeros": 215778,
+      "viajeros_km": 123098190
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T4",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2275748,
+      "plazas_km_ofertadas": 1181970408,
+      "tren_km": 4493997,
+      "viajeros": 1002295,
+      "viajeros_km": 378513030
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T4",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1736070,
+      "plazas_km_ofertadas": 298699810,
+      "tren_km": 1004717,
+      "viajeros": 689862,
+      "viajeros_km": 86241757
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2020T4",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 9728001,
+      "plazas_km_ofertadas": 1534166365,
+      "tren_km": 6083723,
+      "viajeros": 2746805,
+      "viajeros_km": 234078414
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T1",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 101379832,
+      "plazas_km_ofertadas": 5300690486,
+      "tren_km": 15148693,
+      "viajeros": 59196069,
+      "viajeros_km": 1107618103
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 425963,
+      "plazas_km_ofertadas": 194392642,
+      "tren_km": 619946,
+      "viajeros": 148405,
+      "viajeros_km": 51999668
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 944493,
+      "plazas_km_ofertadas": 594429131,
+      "tren_km": 1478171,
+      "viajeros": 523205,
+      "viajeros_km": 252881699
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 399427,
+      "plazas_km_ofertadas": 208400916,
+      "tren_km": 549827,
+      "viajeros": 190449,
+      "viajeros_km": 87764405
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 373036,
+      "plazas_km_ofertadas": 175615988,
+      "tren_km": 471428,
+      "viajeros": 189116,
+      "viajeros_km": 79133013
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 502353,
+      "plazas_km_ofertadas": 201507013,
+      "tren_km": 573621,
+      "viajeros": 162837,
+      "viajeros_km": 61733844
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 303032,
+      "plazas_km_ofertadas": 309572613,
+      "tren_km": 574725,
+      "viajeros": 173556,
+      "viajeros_km": 102065634
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T1",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1885975,
+      "plazas_km_ofertadas": 1017073785,
+      "tren_km": 3679943,
+      "viajeros": 788734,
+      "viajeros_km": 307081984
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T1",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1672380,
+      "plazas_km_ofertadas": 289297149,
+      "tren_km": 989106,
+      "viajeros": 678760,
+      "viajeros_km": 82796307
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T1",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 10147703,
+      "plazas_km_ofertadas": 1536000309,
+      "tren_km": 6034475,
+      "viajeros": 2477493,
+      "viajeros_km": 207297046
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T2",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 108553398,
+      "plazas_km_ofertadas": 5653988380,
+      "tren_km": 15805815,
+      "viajeros": 71910534,
+      "viajeros_km": 1356066479
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 514780,
+      "plazas_km_ofertadas": 235395160,
+      "tren_km": 713148,
+      "viajeros": 308607,
+      "viajeros_km": 117120044
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 264680,
+      "plazas_km_ofertadas": 165319128,
+      "tren_km": 324792,
+      "viajeros": 248975,
+      "viajeros_km": 138572494
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1109242,
+      "plazas_km_ofertadas": 696483380,
+      "tren_km": 1646079,
+      "viajeros": 874648,
+      "viajeros_km": 424432634
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 490991,
+      "plazas_km_ofertadas": 255550513,
+      "tren_km": 641530,
+      "viajeros": 383959,
+      "viajeros_km": 179162220
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 447364,
+      "plazas_km_ofertadas": 210708444,
+      "tren_km": 521880,
+      "viajeros": 356478,
+      "viajeros_km": 151736516
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 529281,
+      "plazas_km_ofertadas": 212508712,
+      "tren_km": 607317,
+      "viajeros": 315478,
+      "viajeros_km": 120694609
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 341006,
+      "plazas_km_ofertadas": 356223826,
+      "tren_km": 621514,
+      "viajeros": 304288,
+      "viajeros_km": 181995530
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T2",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2032509,
+      "plazas_km_ofertadas": 1094347906,
+      "tren_km": 3976649,
+      "viajeros": 1389659,
+      "viajeros_km": 552274139
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T2",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1928370,
+      "plazas_km_ofertadas": 333083971,
+      "tren_km": 1135718,
+      "viajeros": 983484,
+      "viajeros_km": 125029620
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T2",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 10674096,
+      "plazas_km_ofertadas": 1640901239,
+      "tren_km": 6402434,
+      "viajeros": 3576023,
+      "viajeros_km": 321851094
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T3",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 113268393,
+      "plazas_km_ofertadas": 5279028790,
+      "tren_km": 15207418,
+      "viajeros": 69059916,
+      "viajeros_km": 1315013560
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 694000,
+      "plazas_km_ofertadas": 316659424,
+      "tren_km": 880740,
+      "viajeros": 525111,
+      "viajeros_km": 211694985
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 468280,
+      "plazas_km_ofertadas": 292487688,
+      "tren_km": 574632,
+      "viajeros": 467173,
+      "viajeros_km": 260891298
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1388002,
+      "plazas_km_ofertadas": 879360707,
+      "tren_km": 2018207,
+      "viajeros": 1360617,
+      "viajeros_km": 674991416
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 755951,
+      "plazas_km_ofertadas": 391526347,
+      "tren_km": 999237,
+      "viajeros": 637909,
+      "viajeros_km": 305009689
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 537166,
+      "plazas_km_ofertadas": 253005186,
+      "tren_km": 672282,
+      "viajeros": 449244,
+      "viajeros_km": 198405607
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 526124,
+      "plazas_km_ofertadas": 209073818,
+      "tren_km": 623333,
+      "viajeros": 424736,
+      "viajeros_km": 162879422
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 833363,
+      "plazas_km_ofertadas": 491365857,
+      "tren_km": 683326,
+      "viajeros": 564607,
+      "viajeros_km": 358239086
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T3",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2527249,
+      "plazas_km_ofertadas": 1324800933,
+      "tren_km": 4816284,
+      "viajeros": 2262538,
+      "viajeros_km": 944506482
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T3",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2282604,
+      "plazas_km_ofertadas": 395199488,
+      "tren_km": 1351204,
+      "viajeros": 1254703,
+      "viajeros_km": 159369691
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T3",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 11450182,
+      "plazas_km_ofertadas": 1767121173,
+      "tren_km": 7009390,
+      "viajeros": 4614019,
+      "viajeros_km": 446948723
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T4",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 102893372,
+      "plazas_km_ofertadas": 5422409880,
+      "tren_km": 15048695,
+      "viajeros": 83924278,
+      "viajeros_km": 1612348817
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 660267,
+      "plazas_km_ofertadas": 301661599,
+      "tren_km": 877286,
+      "viajeros": 469681,
+      "viajeros_km": 179832564
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 472352,
+      "plazas_km_ofertadas": 295040832,
+      "tren_km": 579648,
+      "viajeros": 457722,
+      "viajeros_km": 257377013
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1671707,
+      "plazas_km_ofertadas": 1058550811,
+      "tren_km": 2347926,
+      "viajeros": 1679631,
+      "viajeros_km": 828483846
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 754529,
+      "plazas_km_ofertadas": 393626792,
+      "tren_km": 935886,
+      "viajeros": 638074,
+      "viajeros_km": 296876712
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 724587,
+      "plazas_km_ofertadas": 341033685,
+      "tren_km": 863400,
+      "viajeros": 631684,
+      "viajeros_km": 276869141
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 635606,
+      "plazas_km_ofertadas": 254282751,
+      "tren_km": 713168,
+      "viajeros": 508913,
+      "viajeros_km": 195523963
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 596834,
+      "plazas_km_ofertadas": 490594388,
+      "tren_km": 676418,
+      "viajeros": 493861,
+      "viajeros_km": 307433980
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T4",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2441716,
+      "plazas_km_ofertadas": 1271708611,
+      "tren_km": 4026442,
+      "viajeros": 2091766,
+      "viajeros_km": 829699704
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T4",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2422765,
+      "plazas_km_ofertadas": 407544192,
+      "tren_km": 1383925,
+      "viajeros": 1609919,
+      "viajeros_km": 198278205
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2021T4",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 11590361,
+      "plazas_km_ofertadas": 1753905638,
+      "tren_km": 7000037,
+      "viajeros": 4744181,
+      "viajeros_km": 435666192
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T1",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 105172292,
+      "plazas_km_ofertadas": 5564754953,
+      "tren_km": 15364830,
+      "viajeros": 84035872,
+      "viajeros_km": 1592310336
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 655900,
+      "plazas_km_ofertadas": 302708030,
+      "tren_km": 921731,
+      "viajeros": 422247,
+      "viajeros_km": 160425958
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 466244,
+      "plazas_km_ofertadas": 291229440,
+      "tren_km": 564660,
+      "viajeros": 459932,
+      "viajeros_km": 257151148
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1671821,
+      "plazas_km_ofertadas": 1053946071,
+      "tren_km": 2462069,
+      "viajeros": 1519918,
+      "viajeros_km": 752285140
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 751230,
+      "plazas_km_ofertadas": 392483635,
+      "tren_km": 952545,
+      "viajeros": 564669,
+      "viajeros_km": 263577649
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 731832,
+      "plazas_km_ofertadas": 344692872,
+      "tren_km": 887677,
+      "viajeros": 548754,
+      "viajeros_km": 241180702
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 731944,
+      "plazas_km_ofertadas": 292269993,
+      "tren_km": 848450,
+      "viajeros": 500646,
+      "viajeros_km": 191709471
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 619326,
+      "plazas_km_ofertadas": 481449835,
+      "tren_km": 778242,
+      "viajeros": 469995,
+      "viajeros_km": 284573077
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T1",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2604748,
+      "plazas_km_ofertadas": 1307708172,
+      "tren_km": 4647075,
+      "viajeros": 1843642,
+      "viajeros_km": 727692400
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T1",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2632136,
+      "plazas_km_ofertadas": 441069440,
+      "tren_km": 1476850,
+      "viajeros": 1541924,
+      "viajeros_km": 188588368
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T1",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 12073771,
+      "plazas_km_ofertadas": 1791507855,
+      "tren_km": 7184369,
+      "viajeros": 4310421,
+      "viajeros_km": 391001290
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T2",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 106111167,
+      "plazas_km_ofertadas": 5601678121,
+      "tren_km": 15457942,
+      "viajeros": 92179553,
+      "viajeros_km": 1750014519
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 731790,
+      "plazas_km_ofertadas": 340977954,
+      "tren_km": 966921,
+      "viajeros": 578063,
+      "viajeros_km": 227449145
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 618435,
+      "plazas_km_ofertadas": 386384445,
+      "tren_km": 567765,
+      "viajeros": 608365,
+      "viajeros_km": 344671513
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1919929,
+      "plazas_km_ofertadas": 1207805369,
+      "tren_km": 2538084,
+      "viajeros": 2051267,
+      "viajeros_km": 1020686407
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 856836,
+      "plazas_km_ofertadas": 449681268,
+      "tren_km": 1048564,
+      "viajeros": 811635,
+      "viajeros_km": 375970815
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 866071,
+      "plazas_km_ofertadas": 407919441,
+      "tren_km": 918281,
+      "viajeros": 801991,
+      "viajeros_km": 351254755
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 847592,
+      "plazas_km_ofertadas": 339030785,
+      "tren_km": 936264,
+      "viajeros": 708444,
+      "viajeros_km": 271187440
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 694866,
+      "plazas_km_ofertadas": 586350837,
+      "tren_km": 920667,
+      "viajeros": 702180,
+      "viajeros_km": 438076428
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T2",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2844220,
+      "plazas_km_ofertadas": 1396024794,
+      "tren_km": 4847264,
+      "viajeros": 2508561,
+      "viajeros_km": 1000310588
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T2",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2977908,
+      "plazas_km_ofertadas": 494311370,
+      "tren_km": 1687387,
+      "viajeros": 2123938,
+      "viajeros_km": 265382003
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T2",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 12548985,
+      "plazas_km_ofertadas": 1895692569,
+      "tren_km": 7617984,
+      "viajeros": 5663753,
+      "viajeros_km": 539872572
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T3",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 106948197,
+      "plazas_km_ofertadas": 5659713823,
+      "tren_km": 15511095,
+      "viajeros": 87111087,
+      "viajeros_km": 1656276816
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 733614,
+      "plazas_km_ofertadas": 339445279,
+      "tren_km": 990013,
+      "viajeros": 575393,
+      "viajeros_km": 236327213
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 841377,
+      "plazas_km_ofertadas": 525656007,
+      "tren_km": 660744,
+      "viajeros": 797537,
+      "viajeros_km": 448094581
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1787486,
+      "plazas_km_ofertadas": 1122460079,
+      "tren_km": 2331075,
+      "viajeros": 1917371,
+      "viajeros_km": 953952543
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1029881,
+      "plazas_km_ofertadas": 538206078,
+      "tren_km": 1124212,
+      "viajeros": 861196,
+      "viajeros_km": 411972354
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 828609,
+      "plazas_km_ofertadas": 390274839,
+      "tren_km": 1014069,
+      "viajeros": 714433,
+      "viajeros_km": 311662753
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 848578,
+      "plazas_km_ofertadas": 341948270,
+      "tren_km": 909495,
+      "viajeros": 716050,
+      "viajeros_km": 273218958
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 823129,
+      "plazas_km_ofertadas": 700293130,
+      "tren_km": 992805,
+      "viajeros": 780233,
+      "viajeros_km": 512831810
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T3",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3008227,
+      "plazas_km_ofertadas": 1503235786,
+      "tren_km": 5324733,
+      "viajeros": 2808089,
+      "viajeros_km": 1129022873
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T3",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3157196,
+      "plazas_km_ofertadas": 526297277,
+      "tren_km": 1767857,
+      "viajeros": 2089208,
+      "viajeros_km": 260636721
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T3",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 12907577,
+      "plazas_km_ofertadas": 1944444275,
+      "tren_km": 7664406,
+      "viajeros": 6520333,
+      "viajeros_km": 671638603
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 111440041,
+      "plazas_km_ofertadas": 5843907136,
+      "tren_km": 15759348,
+      "viajeros": 109598953,
+      "viajeros_km": 2074255973
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 724556,
+      "plazas_km_ofertadas": 336832646,
+      "tren_km": 1009731,
+      "viajeros": 502959,
+      "viajeros_km": 205543473
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 234918,
+      "plazas_km_ofertadas": 147058668,
+      "tren_km": 349308,
+      "viajeros": 119667,
+      "viajeros_km": 68667453
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 839850,
+      "plazas_km_ofertadas": 524771874,
+      "tren_km": 570870,
+      "viajeros": 843008,
+      "viajeros_km": 475097327
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1974136,
+      "plazas_km_ofertadas": 1227731692,
+      "tren_km": 2717202,
+      "viajeros": 1928312,
+      "viajeros_km": 941794468
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 882869,
+      "plazas_km_ofertadas": 463023162,
+      "tren_km": 1107436,
+      "viajeros": 766308,
+      "viajeros_km": 354542195
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 845767,
+      "plazas_km_ofertadas": 398355489,
+      "tren_km": 1053967,
+      "viajeros": 745094,
+      "viajeros_km": 324064558
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 25260,
+      "plazas_km_ofertadas": 9876660,
+      "tren_km": 23460,
+      "viajeros": 7602,
+      "viajeros_km": 2882757
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 559391,
+      "plazas_km_ofertadas": 222637618,
+      "tren_km": 339892,
+      "viajeros": 368629,
+      "viajeros_km": 146714342
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 907735,
+      "plazas_km_ofertadas": 362867934,
+      "tren_km": 972943,
+      "viajeros": 646445,
+      "viajeros_km": 244934014
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 757533,
+      "plazas_km_ofertadas": 564636496,
+      "tren_km": 1154591,
+      "viajeros": 682891,
+      "viajeros_km": 399293817
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2898487,
+      "plazas_km_ofertadas": 1460638485,
+      "tren_km": 5335779,
+      "viajeros": 2341510,
+      "viajeros_km": 918861509
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3538886,
+      "plazas_km_ofertadas": 593263918,
+      "tren_km": 1831396,
+      "viajeros": 2809535,
+      "viajeros_km": 357686261
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2022T4",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 13629435,
+      "plazas_km_ofertadas": 2019178891,
+      "tren_km": 7808477,
+      "viajeros": 9379095,
+      "viajeros_km": 996405851
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 117939161,
+      "plazas_km_ofertadas": 5826233100,
+      "tren_km": 15846837,
+      "viajeros": 110598158,
+      "viajeros_km": 1978653413
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 791484,
+      "plazas_km_ofertadas": 368787756,
+      "tren_km": 1129797,
+      "viajeros": 506495,
+      "viajeros_km": 212610494
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 838840,
+      "plazas_km_ofertadas": 525113840,
+      "tren_km": 1236976,
+      "viajeros": 544391,
+      "viajeros_km": 300351868
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 790986,
+      "plazas_km_ofertadas": 493847070,
+      "tren_km": 560886,
+      "viajeros": 712748,
+      "viajeros_km": 398945618
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1989396,
+      "plazas_km_ofertadas": 1216683440,
+      "tren_km": 2811638,
+      "viajeros": 1869892,
+      "viajeros_km": 899547340
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": 116962273,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": null,
+      "tren_km": null,
+      "viajeros": null,
+      "viajeros_km": null
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1748,
+      "plazas_km_ofertadas": 900220,
+      "tren_km": 2060,
+      "viajeros": 1455,
+      "viajeros_km": 697612
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 933643,
+      "plazas_km_ofertadas": 486976877,
+      "tren_km": 1158149,
+      "viajeros": 740298,
+      "viajeros_km": 340500727
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1748,
+      "plazas_km_ofertadas": 826804,
+      "tren_km": 1892,
+      "viajeros": 1443,
+      "viajeros_km": 641233
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 852322,
+      "plazas_km_ofertadas": 396662203,
+      "tren_km": 1096270,
+      "viajeros": 747411,
+      "viajeros_km": 320906475
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 286698,
+      "plazas_km_ofertadas": 112098918,
+      "tren_km": 263534,
+      "viajeros": 144874,
+      "viajeros_km": 56011971
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 363935,
+      "plazas_km_ofertadas": 144846130,
+      "tren_km": 237606,
+      "viajeros": 273713,
+      "viajeros_km": 108937774
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 920158,
+      "plazas_km_ofertadas": 367162300,
+      "tren_km": 1017258,
+      "viajeros": 665213,
+      "viajeros_km": 251354384
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 630797,
+      "plazas_km_ofertadas": 409194009,
+      "tren_km": 1078023,
+      "viajeros": 490883,
+      "viajeros_km": 267179685
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2763942,
+      "plazas_km_ofertadas": 1412406481,
+      "tren_km": 5237462,
+      "viajeros": 2107470,
+      "viajeros_km": 826272175
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3967414,
+      "plazas_km_ofertadas": 645939680,
+      "tren_km": 1978491,
+      "viajeros": 2838703,
+      "viajeros_km": 363247568
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T1",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 13685137,
+      "plazas_km_ofertadas": 1996731254,
+      "tren_km": 7806082,
+      "viajeros": 7904290,
+      "viajeros_km": 822812825
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 117190276,
+      "plazas_km_ofertadas": 5748330454,
+      "tren_km": 15743317,
+      "viajeros": 110238754,
+      "viajeros_km": 1995311228
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 50692,
+      "plazas_km_ofertadas": 24332160,
+      "tren_km": 55680,
+      "viajeros": 28225,
+      "viajeros_km": 12806334
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 227523,
+      "plazas_km_ofertadas": 110803701,
+      "tren_km": 126133,
+      "viajeros": 152003,
+      "viajeros_km": 70117186
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 911733,
+      "plazas_km_ofertadas": 415519784,
+      "tren_km": 1275262,
+      "viajeros": 582571,
+      "viajeros_km": 249068603
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1045304,
+      "plazas_km_ofertadas": 654360304,
+      "tren_km": 1497392,
+      "viajeros": 865762,
+      "viajeros_km": 486507078
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 750266,
+      "plazas_km_ofertadas": 468450006,
+      "tren_km": 567144,
+      "viajeros": 742865,
+      "viajeros_km": 415097460
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2063167,
+      "plazas_km_ofertadas": 1260015261,
+      "tren_km": 2887738,
+      "viajeros": 2059770,
+      "viajeros_km": 1008228192
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": 151260834,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": null,
+      "tren_km": null,
+      "viajeros": null,
+      "viajeros_km": null
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 236854,
+      "plazas_km_ofertadas": 121979810,
+      "tren_km": 279130,
+      "viajeros": 190753,
+      "viajeros_km": 89965647
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 977641,
+      "plazas_km_ofertadas": 509011883,
+      "tren_km": 1202398,
+      "viajeros": 848487,
+      "viajeros_km": 387127698
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 322506,
+      "plazas_km_ofertadas": 152545338,
+      "tren_km": 349074,
+      "viajeros": 261971,
+      "viajeros_km": 116115972
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 874309,
+      "plazas_km_ofertadas": 406061143,
+      "tren_km": 1081428,
+      "viajeros": 810740,
+      "viajeros_km": 343957905
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 554116,
+      "plazas_km_ofertadas": 216659356,
+      "tren_km": 495788,
+      "viajeros": 329798,
+      "viajeros_km": 127385636
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 434686,
+      "plazas_km_ofertadas": 173005028,
+      "tren_km": 233228,
+      "viajeros": 332367,
+      "viajeros_km": 132282066
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 911936,
+      "plazas_km_ofertadas": 362148739,
+      "tren_km": 1027318,
+      "viajeros": 653585,
+      "viajeros_km": 248833788
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": 36545957,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": null,
+      "tren_km": null,
+      "viajeros": null,
+      "viajeros_km": null
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 666930,
+      "plazas_km_ofertadas": 423103992,
+      "tren_km": 1160682,
+      "viajeros": 612566,
+      "viajeros_km": 325991318
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2764205,
+      "plazas_km_ofertadas": 1395716372,
+      "tren_km": 5223611,
+      "viajeros": 2434482,
+      "viajeros_km": 975077617
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 4020079,
+      "plazas_km_ofertadas": 667314576,
+      "tren_km": 2000229,
+      "viajeros": 3329309,
+      "viajeros_km": 436821315
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T2",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 13810754,
+      "plazas_km_ofertadas": 2039244393,
+      "tren_km": 7955395,
+      "viajeros": 8822749,
+      "viajeros_km": 917513199
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 119096701,
+      "plazas_km_ofertadas": 5534846281,
+      "tren_km": 15320684,
+      "viajeros": 105405473,
+      "viajeros_km": 1919592128
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 147328,
+      "plazas_km_ofertadas": 70717440,
+      "tren_km": 153600,
+      "viajeros": 90733,
+      "viajeros_km": 41957042
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 329832,
+      "plazas_km_ofertadas": 160628184,
+      "tren_km": 179216,
+      "viajeros": 247125,
+      "viajeros_km": 114633586
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 937068,
+      "plazas_km_ofertadas": 439563204,
+      "tren_km": 1289049,
+      "viajeros": 618149,
+      "viajeros_km": 267359923
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 973959,
+      "plazas_km_ofertadas": 609698334,
+      "tren_km": 1323990,
+      "viajeros": 731346,
+      "viajeros_km": 413170328
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 671880,
+      "plazas_km_ofertadas": 419534088,
+      "tren_km": 574632,
+      "viajeros": 643721,
+      "viajeros_km": 353461865
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1950889,
+      "plazas_km_ofertadas": 1199371129,
+      "tren_km": 2792616,
+      "viajeros": 2005274,
+      "viajeros_km": 985426291
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": 128481556,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": null,
+      "tren_km": null,
+      "viajeros": null,
+      "viajeros_km": null
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 405200,
+      "plazas_km_ofertadas": 208678000,
+      "tren_km": 453200,
+      "viajeros": 290348,
+      "viajeros_km": 141236505
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 988265,
+      "plazas_km_ofertadas": 514982803,
+      "tren_km": 1160082,
+      "viajeros": 824371,
+      "viajeros_km": 388746793
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 458119,
+      "plazas_km_ofertadas": 216690287,
+      "tren_km": 470635,
+      "viajeros": 308483,
+      "viajeros_km": 137748659
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 768891,
+      "plazas_km_ofertadas": 357582709,
+      "tren_km": 981322,
+      "viajeros": 674555,
+      "viajeros_km": 289379740
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 645650,
+      "plazas_km_ofertadas": 252449150,
+      "tren_km": 548182,
+      "viajeros": 399989,
+      "viajeros_km": 154839506
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 394984,
+      "plazas_km_ofertadas": 157203632,
+      "tren_km": 217308,
+      "viajeros": 307909,
+      "viajeros_km": 122547782
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 962217,
+      "plazas_km_ofertadas": 384212786,
+      "tren_km": 1032368,
+      "viajeros": 699004,
+      "viajeros_km": 266605834
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": 35979948,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": null,
+      "tren_km": null,
+      "viajeros": null,
+      "viajeros_km": null
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 807838,
+      "plazas_km_ofertadas": 508348956,
+      "tren_km": 1114471,
+      "viajeros": 784768,
+      "viajeros_km": 386871639
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2814111,
+      "plazas_km_ofertadas": 1452168700,
+      "tren_km": 5191050,
+      "viajeros": 2653784,
+      "viajeros_km": 1079294993
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 3930739,
+      "plazas_km_ofertadas": 646520670,
+      "tren_km": 1979228,
+      "viajeros": 2916884,
+      "viajeros_km": 387862954
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T3",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 14351613,
+      "plazas_km_ofertadas": 2041216319,
+      "tren_km": 8108235,
+      "viajeros": 11457720,
+      "viajeros_km": 1445706428
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 118556715,
+      "plazas_km_ofertadas": 5595209997,
+      "tren_km": 15416801,
+      "viajeros": 115753499,
+      "viajeros_km": 2038430931
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 35036,
+      "plazas_km_ofertadas": 16817280,
+      "tren_km": 36480,
+      "viajeros": 24322,
+      "viajeros_km": 11015506
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 207672,
+      "plazas_km_ofertadas": 101136264,
+      "tren_km": 196748,
+      "viajeros": 161030,
+      "viajeros_km": 73517907
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 904747,
+      "plazas_km_ofertadas": 422121637,
+      "tren_km": 1176893,
+      "viajeros": 584468,
+      "viajeros_km": 248993361
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1161863,
+      "plazas_km_ofertadas": 732838902,
+      "tren_km": 1589831,
+      "viajeros": 883263,
+      "viajeros_km": 505241632
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 711073,
+      "plazas_km_ofertadas": 443976777,
+      "tren_km": 570870,
+      "viajeros": 677140,
+      "viajeros_km": 380027829
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1995470,
+      "plazas_km_ofertadas": 1224206353,
+      "tren_km": 2953324,
+      "viajeros": 2058500,
+      "viajeros_km": 974904893
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": 141930145,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": null,
+      "tren_km": null,
+      "viajeros": null,
+      "viajeros_km": null
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 356814,
+      "plazas_km_ofertadas": 183759210,
+      "tren_km": 398610,
+      "viajeros": 252317,
+      "viajeros_km": 120023380
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 965866,
+      "plazas_km_ofertadas": 502282349,
+      "tren_km": 1249266,
+      "viajeros": 804893,
+      "viajeros_km": 366505966
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 487224,
+      "plazas_km_ofertadas": 234323326,
+      "tren_km": 508392,
+      "viajeros": 337284,
+      "viajeros_km": 150827341
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 941562,
+      "plazas_km_ofertadas": 436797429,
+      "tren_km": 1230326,
+      "viajeros": 775366,
+      "viajeros_km": 326537925
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 610364,
+      "plazas_km_ofertadas": 238652324,
+      "tren_km": 517684,
+      "viajeros": 352749,
+      "viajeros_km": 136918771
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 368516,
+      "plazas_km_ofertadas": 146669368,
+      "tren_km": 250740,
+      "viajeros": 292565,
+      "viajeros_km": 116440870
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 938409,
+      "plazas_km_ofertadas": 373845746,
+      "tren_km": 1116555,
+      "viajeros": 662438,
+      "viajeros_km": 252534964
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": 35969727,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": null,
+      "tren_km": null,
+      "viajeros": null,
+      "viajeros_km": null
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 844491,
+      "plazas_km_ofertadas": 629815432,
+      "tren_km": 1267816,
+      "viajeros": 750588,
+      "viajeros_km": 421732458
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2728326,
+      "plazas_km_ofertadas": 1414972712,
+      "tren_km": 5225597,
+      "viajeros": 2340716,
+      "viajeros_km": 927407092
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 4043100,
+      "plazas_km_ofertadas": 672985670,
+      "tren_km": 1992260,
+      "viajeros": 3522919,
+      "viajeros_km": 454873218
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2023T4",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 14200217,
+      "plazas_km_ofertadas": 2041455174,
+      "tren_km": 8122756,
+      "viajeros": 9629776,
+      "viajeros_km": 1014108289
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 110331152,
+      "plazas_km_ofertadas": 5701555719,
+      "tren_km": 15759590,
+      "viajeros": 111626604,
+      "viajeros_km": 2004000646
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 43334,
+      "plazas_km_ofertadas": 20800320,
+      "tren_km": 45120,
+      "viajeros": 30454,
+      "viajeros_km": 13944046
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 277405,
+      "plazas_km_ofertadas": 135096235,
+      "tren_km": 265415,
+      "viajeros": 216866,
+      "viajeros_km": 98242382
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 911140,
+      "plazas_km_ofertadas": 430047451,
+      "tren_km": 1307658,
+      "viajeros": 573881,
+      "viajeros_km": 243801091
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 989525,
+      "plazas_km_ofertadas": 642309871,
+      "tren_km": 1393297,
+      "viajeros": 791253,
+      "viajeros_km": 456673247
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 670862,
+      "plazas_km_ofertadas": 418956882,
+      "tren_km": 539181,
+      "viajeros": 585688,
+      "viajeros_km": 329864925
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1957132,
+      "plazas_km_ofertadas": 1203602270,
+      "tren_km": 2934559,
+      "viajeros": 1982507,
+      "viajeros_km": 928146508
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": 129718149,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": null,
+      "tren_km": null,
+      "viajeros": null,
+      "viajeros_km": null
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 418588,
+      "plazas_km_ofertadas": 215572820,
+      "tren_km": 467620,
+      "viajeros": 291394,
+      "viajeros_km": 138247862
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 974688,
+      "plazas_km_ofertadas": 505732106,
+      "tren_km": 1268268,
+      "viajeros": 797874,
+      "viajeros_km": 356648401
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 429634,
+      "plazas_km_ofertadas": 222286566,
+      "tren_km": 482183,
+      "viajeros": 317395,
+      "viajeros_km": 142737236
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 961797,
+      "plazas_km_ofertadas": 447081989,
+      "tren_km": 1260120,
+      "viajeros": 806578,
+      "viajeros_km": 337763882
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 609903,
+      "plazas_km_ofertadas": 238472073,
+      "tren_km": 517293,
+      "viajeros": 376920,
+      "viajeros_km": 146550469
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 470316,
+      "plazas_km_ofertadas": 187185768,
+      "tren_km": 361384,
+      "viajeros": 340269,
+      "viajeros_km": 135427062
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 916406,
+      "plazas_km_ofertadas": 365460564,
+      "tren_km": 1019637,
+      "viajeros": 625421,
+      "viajeros_km": 236526258
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": 32595092,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": null,
+      "tren_km": null,
+      "viajeros": null,
+      "viajeros_km": null
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 898084,
+      "plazas_km_ofertadas": 700776545,
+      "tren_km": 1377187,
+      "viajeros": 771237,
+      "viajeros_km": 445679392
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2706819,
+      "plazas_km_ofertadas": 1396877330,
+      "tren_km": 5219053,
+      "viajeros": 2219630,
+      "viajeros_km": 878100313
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 4061837,
+      "plazas_km_ofertadas": 679764793,
+      "tren_km": 1993910,
+      "viajeros": 3145453,
+      "viajeros_km": 405680121
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T1",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 14371321,
+      "plazas_km_ofertadas": 2058726781,
+      "tren_km": 8164184,
+      "viajeros": 8636994,
+      "viajeros_km": 900886561
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "Cercan\u00edas",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 110568846,
+      "plazas_km_ofertadas": 5631649082,
+      "tren_km": 15280471,
+      "viajeros": 115403181,
+      "viajeros_km": 2062799887
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 77448,
+      "plazas_km_ofertadas": 37175040,
+      "tren_km": 80640,
+      "viajeros": 55072,
+      "viajeros_km": 25567214
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 241775,
+      "plazas_km_ofertadas": 129171939,
+      "tren_km": 253776,
+      "viajeros": 234283,
+      "viajeros_km": 105610382
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Alicante",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 870162,
+      "plazas_km_ofertadas": 413497907,
+      "tren_km": 1216228,
+      "viajeros": 650556,
+      "viajeros_km": 275908846
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1000964,
+      "plazas_km_ofertadas": 652903817,
+      "tren_km": 1416277,
+      "viajeros": 923250,
+      "viajeros_km": 539748509
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 662209,
+      "plazas_km_ofertadas": 413494803,
+      "tren_km": 565890,
+      "viajeros": 629346,
+      "viajeros_km": 359988419
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2108042,
+      "plazas_km_ofertadas": 1299946749,
+      "tren_km": 3053638,
+      "viajeros": 2321763,
+      "viajeros_km": 1090634543
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Barcelona",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": 161654747,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": null,
+      "tren_km": null,
+      "viajeros": null,
+      "viajeros_km": null
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 503412,
+      "plazas_km_ofertadas": 259257180,
+      "tren_km": 562380,
+      "viajeros": 375217,
+      "viajeros_km": 175924989
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-M\u00e1laga/Granada",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1027825,
+      "plazas_km_ofertadas": 530525992,
+      "tren_km": 1302387,
+      "viajeros": 953116,
+      "viajeros_km": 415588163
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 436907,
+      "plazas_km_ofertadas": 225667439,
+      "tren_km": 489517,
+      "viajeros": 381468,
+      "viajeros_km": 170177830
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Sevilla",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1003498,
+      "plazas_km_ofertadas": 465653242,
+      "tren_km": 1282515,
+      "viajeros": 971903,
+      "viajeros_km": 399999016
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "INTERMODALIDAD DE LEVANTE S.A.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 461000,
+      "plazas_km_ofertadas": 180251000,
+      "tren_km": 391000,
+      "viajeros": 345179,
+      "viajeros_km": 134210576
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "OUIGO ESPA\u00d1A, S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 467262,
+      "plazas_km_ofertadas": 185970276,
+      "tren_km": 326360,
+      "viajeros": 387654,
+      "viajeros_km": 153769337
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Renfe Viajeros S.A.U.",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 956981,
+      "plazas_km_ofertadas": 384959805,
+      "tren_km": 948211,
+      "viajeros": 766031,
+      "viajeros_km": 292006993
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Madrid-Valencia",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": 41702829,
+      "plazas_ofertadas": null,
+      "plazas_km_ofertadas": null,
+      "tren_km": null,
+      "viajeros": null,
+      "viajeros_km": null
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD AV",
+      "corredor": "Resto",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 1291153,
+      "plazas_km_ofertadas": 833497119,
+      "tren_km": 1674852,
+      "viajeros": 1270093,
+      "viajeros_km": 647298482
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "LD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "Comercial",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 2560133,
+      "plazas_km_ofertadas": 1324418967,
+      "tren_km": 4767883,
+      "viajeros": 2385240,
+      "viajeros_km": 936852214
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "MD AV",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 4148916,
+      "plazas_km_ofertadas": 690979155,
+      "tren_km": 1993692,
+      "viajeros": 3506626,
+      "viajeros_km": 450082862
+    }
+  },
+  {
+    "_index": "trenes",
+    "_source": {
+      "trimestre": "2024T2",
+      "tipo_de_producto": "MD Convencional",
+      "corredor": "Total",
+      "empresa": "Total",
+      "tipo_de_servicio": "OSP",
+      "ingresos_por_venta_de_billetes": null,
+      "plazas_ofertadas": 14660355,
+      "plazas_km_ofertadas": 2068063788,
+      "tren_km": 8095374,
+      "viajeros": 10154602,
+      "viajeros_km": 1107993606
+    }
+  }
+]
