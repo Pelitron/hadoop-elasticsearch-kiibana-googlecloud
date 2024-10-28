@@ -32,5 +32,6 @@ Se recopilaron datos sobre trenes españoles, incluyendo información sobre ingr
 4. **Indexación en Elasticsearch**: Los datos se indexaron en un clúster de Elasticsearch para facilitar la búsqueda y análisis.
 5. **Visualización en Kibana**: Se creó un dashboard en Kibana para visualizar los datos de los trenes españoles.
 
-Author: Fernando Beneytez.
-Mentor: Alex Sáez.
+**Author: Fernando Beneytez.**
+
+**Tutor/Mentor: Alex Saez.**
