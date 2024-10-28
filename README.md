@@ -26,7 +26,7 @@ Se recopilaron datos sobre trenes españoles, incluyendo información sobre ingr
 
 ## Pasos Realizados
 
-1. **Configuración de la Maquina Virtual en GCP**: Se creó una instancia de VM para ejecutar Hadoop.
+1. **Configuración de la Maquina Virtual en GCP**: Se creó una instancia de VM para hacer un server con Elasticsearch y Kibana
 2. **Implementación de un Cluster Hadoop**: Se configuró un cluster Hadoop para el procesamiento de datos.
 3. **Carga de Datos**: Se almacenaron los datos en un bucket de Google Cloud Storage.
 4. **Indexación en Elasticsearch**: Los datos se indexaron en un clúster de Elasticsearch para facilitar la búsqueda y análisis.
