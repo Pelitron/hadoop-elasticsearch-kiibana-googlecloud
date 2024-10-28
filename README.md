@@ -1,4 +1,4 @@
-# Práctica de Elasticsearch y Hadoop en Google Cloud
+# VM Elasticic Server y Cluster Hadoop en Google Cloud
 
 ## Descripción
 
@@ -7,9 +7,9 @@ Este repositorio contiene un notebook que documenta una práctica realizada util
 ## Tecnologías Utilizadas
 
 - **Google Cloud Platform (GCP)**
-  - Maquina Virtual
-  - Cluster Hadoop
-  - Google Cloud Storage (Buckets)
+  - Maquina Virtual ----> Elastic Server
+  - Cluster Hadoop -----> Cluster 1 máster 2 slaves
+  - Google Cloud Storage (Buckets) ----> Data Lake
 - **Elasticsearch**
 - **Kibana**
 - **Hadoop**
